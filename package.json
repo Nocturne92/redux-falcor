@@ -1,6 +1,6 @@
 {
   "name": "@nocturne92/redux-falcor",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "A helper library for integratig Redux & Falcor",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
